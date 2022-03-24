@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1Kotlin2</string>
+    <string name="cancel">Відміна</string>
+    <string name="from_label">Від:</string>
+    <string name="to_label">До:</string>
+    <string name="title">Вибір потягу</string>
+    <string name="send_btn">ОК</string>
+    <string name="no_time_input">Оберіть час відправки</string>
+    <string name="one">\" з часом відправки \"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
